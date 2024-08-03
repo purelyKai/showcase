@@ -1,3 +1,3 @@
 # showcase
 
-Showcase website with portfolio and blog.
+Showcase website with portfolio and blog. *******
